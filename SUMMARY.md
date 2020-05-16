@@ -4,3 +4,5 @@
 -   [第一章](Chapter1.md)
 -   [第二章](Chapter2.md)
 
+-   [第三章](Chapter3.md)
+
