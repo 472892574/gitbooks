@@ -5,6 +5,7 @@
 - [第二章](Chapter2.md)
 - [第三章](Chapter3.md)
 - [第四章](Chapter4.md)
+- [第五章](Chapter5.md)
 - [发展党员工作流程](Liucheng.md)
--   [党章]()
+-   [党章](Constitution.md)
 
