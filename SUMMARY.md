@@ -5,4 +5,5 @@
 -   [第二章](Chapter2.md)
 
 -   [第三章](Chapter3.md)
+    -   [发展党员工作流程](gongzuoliucheng.png)
 
