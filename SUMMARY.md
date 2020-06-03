@@ -9,3 +9,5 @@
 - [发展党员工作流程](Liucheng.md)
 -   [中国共产党章程](Constitution.md)
 
+-   [2020全国两会精神概要](Lianghui.md)
+
